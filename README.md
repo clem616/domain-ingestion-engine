@@ -18,7 +18,7 @@ Given a directory of PDFs or text files, the engine generates five ground-truth 
 **Step 1 — clone the repository:**
 
 ```bash
-git clone https://github.com/rag-adversarial-bench/domain-ingestion-engine
+git clone https://github.com/clem616/domain-ingestion-engine
 cd domain-ingestion-engine
 ```
 
